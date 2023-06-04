@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    padding:0;
+    margin:0;
+    color:#333;
+    background: #efeee7;
+}
+
+div.basliq{
+    color:#EEEEEE;
+    background-color:#333333;
+    text-align:center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:28px;
+    margin:0px 0px 20px;
+    padding:10px 0px;
+}
+
+div.box{
+    float:left;
+}
+
+div.name{
+    font-size:24px;
+    color:#333333;
+    margin-left:100px;
+}
+
+div.img{
+    width: 200px;
+    height: 200px;
+    margin-left:100px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    float:left;
+}
+
+div.text{
+    float:left;
+    color:#333;
+    font-size:20px;
+}
+
+div.box2{
+    float:right;
+    margin-right: 100px;
+}
+
+div.contact{
+    color:#333;
+    font-size:24px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+a.color{
+    color:red;
+}
